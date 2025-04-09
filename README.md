@@ -8,7 +8,7 @@ A Circuito 29 é uma microempresa especializada no aluguel de simuladores de cor
 
 Este repositório foi criado como parte da jornada de profissionalização do fundador, Michael, que está desenvolvendo suas habilidades em tecnologia e negócios. Aqui serão organizadas ideias, conteúdos e registros do desenvolvimento da Circuito 29.
 
-## Contato
+
 
 - 💼 Fundador: Michael  
    
