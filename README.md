@@ -11,9 +11,8 @@ Este repositório foi criado como parte da jornada de profissionalização do fu
 ## Contato
 
 - 💼 Fundador: Michael  
-- 🌐 Em breve: www.circuito29.com.br  
-- 📧 Email: [seuemail@email.com]  
-- 📍 Localização: [Sua cidade/estado]  
+   
+- 📍 Localização: [Sinop, Mato-grosso]  
 
 ---
 
